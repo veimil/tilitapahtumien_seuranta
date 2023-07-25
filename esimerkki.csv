@@ -1,0 +1,6 @@
+tyyppi(veloitus tai hyvitys),timestamp,kauppa,summa
+veloitus,2023-04-05 15:26:27.392461,Alepa Otaniemi,20
+hyvitys,2023-04-05 19:26:27.392461,Alepa Otaniemi,10
+veloitus,2023-04-05 20:26:30.392461,Alepa Otaniemi,40
+veloitus,2023-04-05 22:40:30.392461,K-Market Otaniemi,10
+veloitus,2023-04-05 22:45:30.392461,K-Market Otaniemi,20
