@@ -6,6 +6,7 @@ harjoitustyö pythonilla, johon voi syöttää tilitapahtumia ja saada yhteenved
 
 Sovellus käynnistetään ajamalla main-moduuli.
 
+
 Tilitapahtumien lukeminen ja syöttäminen
 
 Sovelluksen käynnistettyään käyttäjä voi painaa Tuo CSV-tiedosto -nappia (CTRL + F), jolloin käyttäjä ohjataan valitsemaan tietokoneeltaan CSV-tiedoston (tekstitiedosto joka
@@ -19,6 +20,7 @@ pilkulla erotettuna. Ohjelma tarkistaa rivin ja ilmoittaa käyttäjälle, onnist
 Käyttävä voi syöttää useita tilitapahtumia ja tiedostoja missä tahansa järjestykessä.
 
 
+
 Kategorian luominen
 
 Painamalla "Luo kategoria" -nappia, ohjelma pyytää käyttäjää syöttämään kategorian nimen, minkä jälkeen ohjelma kyselee kauppojen nimiä jotka käyttäjä sisällyttää kategoriaan.
@@ -26,6 +28,7 @@ Ohjelma tarkastaa, että saman nimistä kategoriaa ei ole aikaisemmin luotu, ja 
 vain yhteen kategoriaan, jotta siihen mennyt kulutus otetaan huomioon vain kerran yhteenvetoa tulostettaessa. Lopuksi käyttäjän tulee painaa "cancel", kun kaikki kaupat on lisätty.
 
 Jos käyttäjä haluaa poistaa luomansa kategorian, voi hän painaa "Poista kategoria" -nappia, jolloin ohjelma kysyy poistettavan kategorian nimen ja poistaa kategorian.
+
 
 
 Yhteenveto kulutuksesta
