@@ -36,5 +36,6 @@ Jos käyttäjä haluaa poistaa luomansa kategorian, voi hän painaa "Poista kate
 Käyttäjä saa yhteenvedon tilitapahtumista painamalla "Luo yhteenveto kaupoittain" tai "Luo yhteenveto kategorioilla" -nappeja, jolloin ohjelma näyttää piirakkadiagrammin
 sekä kauppojen/kategorioiden prosentuaalisen kulutuksen jakautumisen. Jos kauppa ei sisälly mihinkään kategoriaan yhteenvedossa kategorioilla, tulostuu kaupan kulutus sellaisenaan.
 Yhteenvedon luomisen jälkeen voi lisätä uusia tilitapahtumia ja kategorioita, ja tulostaa päivitetyn yhteenvedon. Painamalla vuorotellen "Luo yhteenveto kaupoittain" ja 
-"Luo yhteenveto kategorioilla", käyttäjä voi saada yhteenvedon ilman kategorioita sekä niiden kanssa.
+"Luo yhteenveto kategorioilla", käyttäjä voi saada yhteenvedon ilman kategorioita sekä niiden kanssa. Käyttäjä voi myös jatkaa tilitapahtumien syöttämistä yhteenvedon tulostuksen jälkeen, jolloin ohjelma jatkaa
+tilitapahtumien tallentamista, minkä jälkeen käyttäjä voi jälleen tulostaa päivitetyn yhteenvedon.
 
